@@ -9,16 +9,13 @@
 # Langkah Pengerjaan 
 1. Buat folder lab7_php_dasar pada root directory web server dahulu xampp > htdocs > new folder
 ![Screenshot 2024-11-25 095246](https://github.com/user-attachments/assets/b44aad2f-57d5-42b3-aa61-ee2b498bced3)
-2. Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
-[http://localhost/lab7_php_dasar](http://localhost/lab7_php_dasar/)
+2. Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: [http://localhost/lab7_php_dasar](http://localhost/lab7_php_dasar/)
 ![image](https://github.com/user-attachments/assets/d8f0a2fb-e468-4ebc-8468-3be216945c8b)
-3. Kemudian untuk mengakses hasilnya melalui URL:
-http://localhost/lab7_php_dasar
+3. Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar
 ![image](https://github.com/user-attachments/assets/3b7fa2cf-e41c-4e85-976b-42b42c68231e)
 4. Menambahkan variable php pada program
 ![image](https://github.com/user-attachments/assets/74d66e05-392a-4c04-ba77-4bb0a189f7c4)
-5. Predefine Variable $_GET Untuk mengaksesnya gunakan URL:
-http://localhost/lab7_php_dasar/belajar_dasar.php?nama=Refania
+5. Predefine Variable $_GET Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/belajar_dasar.php?nama=Refania
 ![Screenshot 2024-11-25 104209](https://github.com/user-attachments/assets/fa066ad3-648b-4af8-8d5f-2333cd5701de)
 6. Membuat  Form Input dengan folder baru
 ![image](https://github.com/user-attachments/assets/ff6aee49-f0c1-4685-9135-7bd919b55490)
