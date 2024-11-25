@@ -17,7 +17,13 @@ http://localhost/lab7_php_dasar
 ![image](https://github.com/user-attachments/assets/3b7fa2cf-e41c-4e85-976b-42b42c68231e)
 4. Menambahkan variable php pada program
 ![image](https://github.com/user-attachments/assets/74d66e05-392a-4c04-ba77-4bb0a189f7c4)
-5. Predefine Variable $_GET
+5. Predefine Variable $_GET Untuk mengaksesnya gunakan URL:
+http://localhost/lab7_php_dasar/belajar_dasar.php?nama=Refania
+![Screenshot 2024-11-25 104209](https://github.com/user-attachments/assets/fa066ad3-648b-4af8-8d5f-2333cd5701de)
+6. Membuat  Form Input dengan folder baru
+7. 
+
+
 
 
 
