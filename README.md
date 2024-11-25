@@ -18,7 +18,7 @@
 5. Predefine Variable $_GET Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/belajar_dasar.php?nama=Refania
 ![Screenshot 2024-11-25 104209](https://github.com/user-attachments/assets/fa066ad3-648b-4af8-8d5f-2333cd5701de)
 6. Membuat  Form Input dengan folder baru
-![image](https://github.com/user-attachments/assets/5617e562-2bdd-4772-82b0-9c4b75688910)
+
 ![image](https://github.com/user-attachments/assets/52068e8c-8959-4a81-a1bd-9aaf09ec6dfa)
 7. Membuat folder baru dengan judul Operator
 ![image](https://github.com/user-attachments/assets/e9ea5250-1e3c-41e0-ad24-6be85c510aa4)
