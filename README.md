@@ -14,9 +14,11 @@
 ![image](https://github.com/user-attachments/assets/d8f0a2fb-e468-4ebc-8468-3be216945c8b)
 3. Kemudian untuk mengakses hasilnya melalui URL:
 http://localhost/lab7_php_dasar
-![image](https://github.com/user-attachments/assets/f981f1c8-24e4-4dc9-8024-9af1ef19cf16)
+![image](https://github.com/user-attachments/assets/3b7fa2cf-e41c-4e85-976b-42b42c68231e)
 4. Menambahkan variable php pada program
 ![image](https://github.com/user-attachments/assets/74d66e05-392a-4c04-ba77-4bb0a189f7c4)
+5. Predefine Variable $_GET
+
 
 
 
