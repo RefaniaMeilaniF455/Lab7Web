@@ -39,7 +39,10 @@ http://localhost/lab7_php_dasar/belajar_dasar.php?nama=Refania
 11. Membuat folder baru dengan judul Perulangan while
 ![image](https://github.com/user-attachments/assets/ee11378c-a483-4570-9e0b-a333b4970120)
 ![image](https://github.com/user-attachments/assets/026632a6-1365-40f0-b32a-4b28c7284b5a)
-12. Membuat folder baru dengan judul Perulangan dowhile
+12. Membuat folder baru dengan judul Perulangan while
+![image](https://github.com/user-attachments/assets/18b1c649-49ef-49d2-965e-b0eaee4840de)
+![image](https://github.com/user-attachments/assets/05b6608f-8db9-46e6-a601-ae32cdb90c32)
+13. Membuat folder baru dengan judul Perulangan dowhile
 ![image](https://github.com/user-attachments/assets/7b8d56c3-85e0-4bab-ad1e-32868a3d8d30)
 ![image](https://github.com/user-attachments/assets/49f5fce2-3833-4286-94df-78d697354e0c)
 
